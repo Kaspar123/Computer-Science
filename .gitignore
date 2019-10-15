@@ -1,5 +1,6 @@
-# Ignore data folder
+# Ignore folders
 data/
+.ipynb_checkpoints
 
 # Ignore files
 *.ini
