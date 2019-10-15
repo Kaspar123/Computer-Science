@@ -1,6 +1,8 @@
 # Ignore folders
 data/
-.ipynb_checkpoints
+
+# Ignore ipython checkout folders
+**/*.ipynb_checkpoints/
 
 # Ignore files
 *.ini
