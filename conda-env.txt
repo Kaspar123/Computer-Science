@@ -277,6 +277,7 @@ https://repo.anaconda.com/pkgs/main/win-64/pytables-3.5.2-py37h1da0976_1.conda
 https://repo.anaconda.com/pkgs/main/win-64/pytest-astropy-0.5.0-py37_0.conda
 https://repo.anaconda.com/pkgs/main/win-64/scikit-image-0.15.0-py37ha925a31_0.conda
 https://repo.anaconda.com/pkgs/main/win-64/scikit-learn-0.21.3-py37h6288b17_0.conda
+https://conda.anaconda.org/pytorch/win-64/torchvision-0.4.0-py37_cu100.tar.bz2
 https://repo.anaconda.com/pkgs/main/win-64/astropy-3.2.1-py37he774522_0.conda
 https://repo.anaconda.com/pkgs/main/win-64/statsmodels-0.10.1-py37h8c2d366_0.conda
 https://repo.anaconda.com/pkgs/main/win-64/seaborn-0.9.0-py37_0.conda
