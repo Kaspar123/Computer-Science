@@ -11,7 +11,7 @@ $ jupyter notebook
   - ⬜️ [[9] Recurrent Models of Visual Attention<sub>Volodymyr Mnih, Nicolas Heess, Alex Graves, Koray Kavukcuoglu</sub>](https://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf)
   - ⬜️ [[13] From Softmax to Sparsemax: A Sparse Model of Attention and Multi-Label Classification<sub>Andre F. T. Martins, Ramon F. Astudillo</sub>](http://proceedings.mlr.press/v48/martins16.pdf)
 
-⬜️ [ABCNN:Attention-BasedConvolutionalNeuralNetwork forModelingSentencePairs<sub>Wenpeng Yin,Hinrich Schütze, Bing Xiang,Bowen Zhou</sub>](https://arxiv.org/pdf/1512.05193.pdf)
+⬜️ [ABCNN:Attention-Based Convolutional Neural Network for Modeling Sentence Pairs<sub>Wenpeng Yin,Hinrich Schütze, Bing Xiang,Bowen Zhou</sub>](https://arxiv.org/pdf/1512.05193.pdf)
 
 ## Datasets
 [DIPLECS - Autonomous Driving Datasets](https://cvssp.org/data/diplecs/)
