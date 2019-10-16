@@ -4,7 +4,9 @@ $ jupyter notebook
 ```
 
 ## References
-[Aggregated Sparse Attention for Steering Angle Prediction](https://arxiv.org/pdf/1803.05785.pdf)
+- [Aggregated Sparse Attention for Steering Angle Prediction](https://arxiv.org/pdf/1803.05785.pdf)
+  - asd
+  - ads
 
 ## Datasets
 [DIPLECS - Autonomous Driving Datasets](https://cvssp.org/data/diplecs/)
