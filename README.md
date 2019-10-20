@@ -17,7 +17,7 @@ $ jupyter notebook
 [DIPLECS - Autonomous Driving Datasets](https://cvssp.org/data/diplecs/)
 
 ## Git repo references
-[https://github.com/kyle-dorman/steering-angle-predictor](https://github.com/kyle-dorman/steering-angle-predictor)
+[https://github.com/kyle-dorman/steering-angle-predictor](https://github.com/kyle-dorman/steering-angle-predictor) <br>
 [https://github.com/stes/saliency](https://github.com/stes/saliency)
 
 ## Cheatsheets
