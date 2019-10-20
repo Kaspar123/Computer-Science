@@ -13,6 +13,8 @@ $ jupyter notebook
 
 ⬜️ [ABCNN:Attention-Based Convolutional Neural Network for Modeling Sentence Pairs<sub>Wenpeng Yin,Hinrich Schütze, Bing Xiang,Bowen Zhou</sub>](https://arxiv.org/pdf/1512.05193.pdf)
 
+good references explained in paper http://www.cnbc.cmu.edu/~tai/readings/tom/itti_attention.pdf
+
 ## Datasets
 [DIPLECS - Autonomous Driving Datasets](https://cvssp.org/data/diplecs/)
 
