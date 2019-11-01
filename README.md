@@ -58,6 +58,18 @@ $ jupyter notebook
     <b></b>
     <b></b>
     * <b>Laurent Itti, Christof Koch, "A saliency-based search mechanism for overt and covert shifts of visual attention," in <i>Vision Research</i>, Volume 40, 2000.</b>
+      * based on the IK bottom-up model, but used with high-resolution (6144x4096) images of military vehicles
+      * realization, that normalizing feature maps and adding them up yields poor performance. Either it should be:
+         * learning linear map combination weights (40)
+         * within-feature competition scheme
+            * feature map is normalized to fixed range (0..1)
+            * feature map is convolved with 2D Difference-of-gaussian kernel (DoG)
+            * original image is added to the result
+            <img src="https://latex.codecogs.com/gif.latex?M&space;\leftarrow&space;\left&space;|&space;M&space;&plus;&space;M&space;*&space;DoG&space;-&space;C_{inh}&space;\right&space;|_{\geq&space;0}" title="M \leftarrow \left | M + M * DoG - C_{inh} \right |_{\geq 0}" />
+            * this is done iteratively ~ 10 times for feature map
+            * feature maps are across-scales added into 3 conspicuity maps
+            * 10 iterations of formula is applied to conspicuity maps
+            * conspicuity maps are linearly summed into unique saliency map
 </pre>
 </body>
 </html>
