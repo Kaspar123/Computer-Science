@@ -1,3 +1,0 @@
-[submodule "saliency_common"]
-	path = saliency_common
-	url = https://github.com/Kaspar123/saliency_common.git
