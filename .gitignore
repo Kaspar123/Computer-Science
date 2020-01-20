@@ -3,6 +3,7 @@ data/
 
 # Ignore ipython checkout folders
 **/*.ipynb_checkpoints/
+**/*.vscode/
 
 # Ignore files
 *.ini
