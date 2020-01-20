@@ -12,6 +12,7 @@
 ```python
 columns = [
     'timestamp',
+    'image_name',
     'position_x',
     'position_y',
     'position_z',
